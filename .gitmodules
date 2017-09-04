@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:ddm0542/ddm0542.github.io.git
